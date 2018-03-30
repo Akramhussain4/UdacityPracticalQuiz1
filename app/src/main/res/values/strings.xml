@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UdacityQuiz-1</string>
+    <string name="about_hint">Write about yourself</string>
+    <string name="username_hint">UserName</string>
+    <string name="email_hint">Email</string>
+    <string name="button_text">Next</string>
+    <string name="toolbar_title">UdacityPracticalQuizOne</string>
+    <string name="user_account_header">user account header</string>
+    <string name="demo_user_name">Demo User Name</string>
+    <string name="demo_email">Demo Email</string>
+    <string name="demo_user_description">This is the demo description and will replace with the original ones.</string>
+</resources>
