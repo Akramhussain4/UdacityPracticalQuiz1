@@ -51,6 +51,9 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public void onSaveInstanceState(Bundle outState) {
+        userName = mUserName.getText().toString();
+        email = mEmail.getText().toString();
+        aboutUser = mAboutUser.getText().toString();
         outState.putString("username",userName);
         outState.putString("email",email);
         outState.putString("about",aboutUser);
